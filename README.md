@@ -1,0 +1,1 @@
+# wp-ishigaki-child
